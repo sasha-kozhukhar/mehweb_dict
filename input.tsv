@@ -1,0 +1,301 @@
+1	4	лоб	anda	andube
+2	3	голова	beč'	buč're
+3	16	челюсть	č'amuk'ani	č'amuk'ume
+4	6	ресница	č'imič'ala	č'imič'ule, č'imič'une
+5	23	тело (живого)	čarχ	čurχle
+6	18	зуб	cula	culbe
+7	9	лицо	daˤʜ	
+8	13	рот	dubi	dubre
+9	5	глаз (а. глазница)	ħuˤli	ħulbe
+10	14	губа	k'ʷet'	k'ut'be
+11	24	внешний вид	kuc	kucane
+12	10	щека	laˤži	laˤžube
+13	8	ухо	liħi	liħbe
+14	17	язык	lizmi	lizme
+15	15	подбородок	muc'ulla q'ača	muc'úrt
+16	12	клюв	muħli	muħlume
+16	193	собака	χʷe	χurhe
+17	7	бровь	ned	nudbe
+18	20	горло	q'aq'ari	q'aq'urme
+19	25	тело (мертвого)	q'arq'ala	q'arq'ult
+20	19	коренной зуб	q'asa cula	
+21	21	шея	qʷaˁnt'a, qaˁb	qʷaˁnt'ne, qaˁbne
+22	11	нос	šumšut'i	šumšut'une
+24	103	шерсть	bala	balube
+25	91	толстая кишка	barχaʔʷari	barχaʔure
+26	112	крыло	batari	baturme, baturt
+27	119	мозг головной (а. мозг костный)	beč'la meħʷa	beč'la meħʷne
+28	34	вымя (у любого скота)	burʜa	burʜne
+29	67	верхняя часть ноги животного	buruk'	buruk'me, buruk'une
+30	274	кусок	but'a	but'ne
+31	63	пядь большая (от большого пальца до мизинца)	č'im	č'imane
+32	38	задница	čagʷi	čagʷne
+33	49	хвост	č'imí	č'imne
+34	106	коса женская (а. половина пробора)	čuri	čurme
+35	66	нога	daga	dagube
+36	115	рана	daˁqi	daˁqu(r)be
+37	370	мясо	diʔ	diʔane
+38	85	внутренности	duħnala	duħnult
+39	81	печень	duleč'	dulč'me
+40	52	локоть	gaza naˤʁ	gaza nuʁe
+41	45	сперма		ʡant'i
+42	73	палец ноги	gubul	gublé
+43	100	шкура мелкокопытного	ɣuli	ɣulbe
+45	116	метка (на ухе овцы)	harzi	harzi
+46	93	кровеносный сосуд	ħila tum	ħila tumane
+47	92	пищевод	hunuh	hunuhune
+48	35	сосок человека	mama	mamne
+49	37	ягодицы	irʁe	irʁme
+50	82	селезенка	k'ac'	k'uc're
+51	102	шкура крупнокопытного (только содрали)	k'eχ	k'eχane, k'uχre
+52	56	горсть (одной руки)	k'ʷaˤš	k'ʷaˤšane
+53	101	шкура крупнокопытного (сухая)	ker	kerane
+54	59	маленький кусок (напр. мяса)	kesek	kesek
+55	53	лапа	kʷač'	kuč're
+56	94	кость (а. сплошная; б. трубчатая; в. позвонок; г. ребро)	liga	ligube
+58	40	у ребенка	mant'u	mant'ne
+59	88	закваска из сычуга	maxa	maxne
+60	62	горсть (двумя руками)	meħ	muħre, meħane
+61	33	грудь (у барана)	miqiri	miqurt
+62	109	борода	muc'ur	muc'urt
+63	28	спина	muʔ	muʔane
+64	61	маленький кусок хлеба	muq'liču	muq'ličune
+65	51	рука	naˤʁ	nuʁeˤ
+66	74	ноготь	nikʷa	nikube
+67	42	половые губы	p'aˤt'u	p'aˤt'ne
+69	57	земельный участок	paj	pajane
+70	60	кусок (напр. мяса)	palča	palčne
+71	111	перо	poʜoli	poʜle
+72	68	пятка	q'aˁč'a	q'aˁč'ube
+73	105	прическа мужская	q'amá	q'amne
+74	108	грива лошади 	q'amaku	q'amakune
+75	499	гребень петуха	q'amč'a	q'amč'ne
+76	97	хрящ	q'amsi	q'amsne
+77	44	яйца (у человека и барана)	q'uleq'a	q'ulq'me
+78	71	колено	q'uq'a	q'uq'ube
+79	29	плечо	qarč'ala	qarč'ulbe, ̈qarč'ult
+80	55	ладонь	qat	qutre
+81	32	грудь (у человека)	qazam	qazamt
+82	113	рог	qi	qime
+83	36	пупок	qudu	qudne
+84	65	пядь малая (от большого до указательного пальца)	qʷač'im	qʷač'imt
+85	75	копыто (лошади, осла)	ʁab	ʁabane
+86	84	живот	ʁaga	ʁugne
+87	39	член мужской	rix	rixane
+88	104	волос (а. волосяной покров головы)	ʁiz	ʁizbe
+89	90	тонкая кишка	rud	rude
+90	89	12перстная	ʁuʁa	ʁuʁne
+93	30	подмышка	šalʔʷala k'awʔ	šalʔʷala k'awʔane
+94	76	копыто (коровы, барана, )	šiq'	šiq'ane
+95	110	ус	sersit'ani	sersit'une
+96	72	палец руки	t'ul	t'ule
+97	114	прыщ	t'inh	t'inhbe
+98	86	сычуг	umχet'	
+99	83	почка	urcec'	urcec'une
+100	70	бедро	urdur	urdurbe
+101	79	сердце	urk'i	urk'be
+102	27	туша	χamalag	χamalagune
+103	80	легкое	χʷarhala	χurhʷle, χʷarhult
+104	54	кулак	χunk'	χunk'ane
+105	69	голень	zilik'	zilk'me
+108	136	мать (а. = ; б. мама)	abaj	abajqale
+109	135	отец (а. = ; б. папа)	adaj	adajqale
+110	139	троюродный брат / сестра	q'uniq'ari	q'umbuq'ure
+111	140	сестра (а. = ; б. двоюродная; в. троюродная)	ruzi	ruzbe
+112	141	двоюродная сестра	ruziq'ari	ruzbuq'ure
+113	137	брат (а. = ; б. двоюродный; в. троюродный)	uzi	uzbe
+114	138	двоюродный брат	uziq'ari	uzbuq'ure
+115	146	мужчина, муж	adami	adamule
+116	158	вооруженный отряд	askar (azkar)	askart (azkart)
+117	204	волк	bec'	buc'e
+118	155	пастух овец	buk'un	buk'unume, buk'unt
+119	172	бык (производитель)	buʁa	buʁne
+120	162	овца 1-3 лет	čibiq'ari	čibiq'urt, čibiq'ure
+121	198	петух	dakda	dakdube, dakdne
+122	188	безрогий козел	dawa	dawne
+123	143	детеныш животного	doˤrʜoˤ	doˤrʜne, doˤrʜbe
+124	167	ягненок 2-3 месяца	dulaj	dulʔme
+125	144	дочь (а. = ; б. девочка)	dursi	dursbe
+126	145	ребенок	eli	ule
+127	201	олень	enc'er	enc'ert
+128	186	коза	eža	ežme
+129	189	козленок до года	gežba	gužbe
+130	197	курица	ʡaˤrʡʷa	ʡaˤrʡʷne
+132	208	заяц	ʡoˤri, ʡari	ʡoˤrme, ʡarme
+133	214	еж	ʡuˁžruq'	ʡuˁžruq'une
+134	207	лиса	gurda	gurdne
+135	180	кобыла	gʷaza	gʷazne
+136	194	сука	gʷaža	gʷažne
+137	184	мул	hamħaluq	hamħaluqune
+138	156	пастух скота	ħanq'akan	ħanq'akule
+139	149	человек	insan	insant
+140	157	пастух табуна	irqiči	irqičunt, irqičune
+141	178	конь	jaˤbu	jaˤbne
+142	173	бычок до года (не костр.)	k'umeš	k'umše
+143	195	щенок	kac'a	kac'ne
+144	166	баран взрослый	kʷiha	kʷihme
+146	206	волк	malʡuˤn	malʡuˤnt
+147	161	Овца	maza	maza
+148	168	ягненок до одного года (а. до нескольких месяцев; б. от нескольких месяцев до года)	muq'ara	muq're
+149	187	козел	q'aˁca	q'aˁcme
+150	171	корова	q'ʷaˁl	q'ʷaˁle
+152	165	овца взрослая, овцематка	qʷat'i	qʷat'ne
+153	202	кабан	ʁaban	ʁabant
+154	176	теленок до одного года	ʁača	ʁačne
+155	152	засватанная	r=igul	r=igult
+156	203	медведь	sinka	sinkbe
+157	175	телка (от 1 года до 3 лет)	t'uʜangari	t'oʜangurbe, t'uʜangurbe
+158	181	жеребенок	taˤj	toˤjre
+159	211	горностай	tarʔ	tarʔane
+160	151	невеста	ukduri	ukdurme
+161	174	вол (кострированный)	unc	unce
+162	179	конь	urči	určne?
+163	142	сын, мальчик	urši	uršbe
+164	213	мышь	waca	wacne
+166	212	куница	χːaˁrc'	χːaˁrc'ane, χːaˁrc'nube
+167	148	много народу	χalq'	χalq'ane
+168	150	женщина (а. = ; б. жена)	xunul	xuhe
+170	147	народ	žamaˤt	
+171	205	волк	žanawar	žanawart
+172	190	козленок 1-3 лет	žum	žumane
+173	196	кошка (а. = ; б. кот)	gatu	gatne
+175	229	гнездо	buruš	buršme
+176	216	птица	čeqʷaˤ	čeqʷne
+177	235	червь (а. дождевой)	čʼičʼa	čʼičʼne
+178	234	змея	gan	gune
+179	222	кукушка	gegu	gegʷne, gugbe
+182	233	лягушка	ʡaˤt'a	ʡaˤt'ne
+183	231	рыба	k'as	k'usre
+184	225	голубь	lahʷi	lahʷne
+185	217	орел	lap'lap'	lap'lap'une
+186	220	ворона	ʁʷana	ʁʷanube
+187	224	куропатка	ʁaʁbi	ʁuʁbe
+188	232	ящерица	šuršut'ani	šuršut'une
+189	223	птица хищная ночная (сова, филин)	t'umi	t'umne
+190	226	ласточка	určut'i	určut'une
+191	311	абрикос	aχbazan	aχbazan(t)
+192	324	лук	bukani šerši	bukani šeršnube
+193	325	чеснок	buq'ani šerši	buq'ani šeršnube
+194	58	кусок (напр. мяса)	but'a	but'a
+195	256	стрекоза	c'erc'	c'urc'be
+196	251	блоха	c'ihʷa	c'ihʷne
+197	300	камыш	č'aˤʡaˤ	č'aˤʡobe, č'aˤʡaˤ, č'aˤʡuˤbe
+198	329	свекла	č'ak'u, č'ak'ultan	č'ak'ne, č'ak'ultune
+199	255	жук	čʼičʼa	čʼičʼne
+200	263	лес	duz	duzunt, duzume
+201	297	тмин	anci	anci
+202	268	кожа, кора, кожура, скорлупа	ʡaˤnk'a (человек, яйцо, кортошки), k'eχ (скотины)	ʡaˤnk'be
+203	301	сорняк (стебли, мешают косить)	ʡaˤrʡaˤ	ʡaˤrʡnube (ʡarʡ-nube)
+204	332	мелкий горох	gingi	gingnube
+205	271	пень для рубки дров	guder	gudert
+206	315	ягоды	gurc'u	
+207	326	фасоль	gurži qara	gurži qarube, qara
+208	299	лопух, растение с крупными листьями (а. его корень)	ħaq'u'r	ħaq'urt
+209	307	яблоко	inc	incbe
+210	302	сорняк на поле	irc'ala	irc'alt
+211	267	лист	k'ap'i	k'ap're
+212	328	картошка	kartuška, kaltuška	kartuškune, kartuška, kaltuškune
+214	310	абрикос	kʷaraga	kʷaragume, kʷaraga
+215	309	персик	kʷarč	kurčbe
+216	265	куст (травы)	kʷarča, kʷabča	kʷarčne
+217	269	корень	maˤq'ʷ	maˤq'ʷe
+218	242	пчела (а. шмель)	mirqi	mirqe, mirqne
+219	294	сено	mura	murube
+220	327	морковь	nabadur	nabadurt, nabadure
+221	252	вошь	nerʔ	nurʔbe
+222	303	крапива	niz	nizbe
+223	330	репа	q'aħa	q'aħne
+224	266	ветка (а. сук; б. прут)	q'aˁjʔi	q'aˁjʔube
+225	293	трава	q'ar	q'arane
+226	253	гнида	q'i	q'ime
+227	323	косточка (плода)	q'umʔ	q'umʔe
+228	313	алыча	q'urq'ula	q'urq'ul(t)
+229	308	груша	qaˁrʔ	qoˁrʔbe, qaˁrʔbe
+230	333	горох	qara	qarube
+231	304	колючка (шип растения), колючее растение	qaraq	qarqme
+232	250	клещ	qinc'	qinc'be
+233	262	дерево	ʁʷet'	ʁut'be
+234	322	лесной орех	šaʜban	šaʜbant
+235	331	клей (мука+вода)	šiniš	
+236	298	мята	šumeri	šumeri
+237	270	смола, жвачка	sida	sidne
+238	312	виноград	t'ut'i	t'ut'urbe
+239	258	трутень	t'uka	t'ukne
+241	496	полено, дрова	urcu'li	urculti'
+242	295	цветок	wawa	wawne
+243	321	орех	χiwh	χiwhe
+244	248	бабочка	abdija	abdijart, abdijartune
+245	249	кузнечик	c'erc'	c'urc'be, c'umc're
+246	241	овод	ħumerz	ħumurzune
+247	246	муравей	imiʔula, imiʔʷala	imiʔule
+248	245	моль	ims	imsne
+249	244	комар	k'ara	k'arme
+250	259	пчела	mirqi	mirqe
+251	247	паук	qizirqala	qizirqule
+252	237	глист	šulek	šulke
+253	240	муха	t'ant'	t'unt're
+255	344	пшеница	anč'i	anč'urbe
+256	400	узелок	andari	andurbe
+257	422	топор	barda	bardne
+258	351	мука	bet'u	bet'ne
+259	399	петля	bul	bulane
+260	367	сметана	burt	burt
+263	340	соломинка, палочка	č'uʡaˤ	č'uʡne, č'oʡne
+264	405	резиновые сапоги	čakma	čakmardune
+265	389	чухта	čubušari	čubušurt
+266	358	хлебное изделие с начинкой	čudu	čudne
+267	411	ярмо (на двоих)	duk'	duk'ane
+268	401	рукав	dulʁa	dulʁube
+269	417	вилы	gala	gule, galube
+270	414	кирка	gaza'	gazni'
+271	353	тесто	ʡaˤt'	
+272	380	хмельной напиток, буза	haruš	haršme
+273	375	бульон	ħarši	ħaršnube, ħarši, ħaršne
+274	383	рубашка, платье	ħawa	ħawne
+275	372	сало, жир	ʜoli	ʜalme, ʜalbe
+276	336	семя	hʷe	hʷeme
+277	363	моло’зиво	ʔa	ʔame
+278	395	пояс (женский) широкий, лямка	irʔi	irʔme, irʔne
+279	418	серп	irxani	irxunt
+281	398	пуговица, крючок	k'ič'	k'ič'e
+282	397	серьга	k'ilik'	k'ilk'me
+283	366	сливочное масло	k'ʷama	k'ʷamne
+284	392	браслет	kuleχa	kulχme
+286	423	молоток	kʷart'a	kʷart'ne
+287	394	камень в кольце	laʔlu	laʔlume
+288	337	колос	lugi	luge
+289	345	рожь	muqi	muqurbe
+290	343	солома измельченная	negʷ	negʷane
+291	361	сыворотка	neħ	nuħane, neħane
+292	364	масло	nerχ	nurχbe
+293	359	молоко 	niʔ	niʔane
+295	346	овес	niqaˁ	niqoˁrbe
+296	387	шапка	q'aˤpa'	q'aˤpne
+297	341	колодец	q'ula	q'ulme
+298	403	носок вязаный	q'ʷaˤri	q'ʷaˤrme
+299	356	жареное зерно	q'ʷe	q'ʷeme
+300	335	зерно (собир.)	q'ʷe	q'ʷeme
+301	386	тулуп, шуба	qar	qarane
+302	415	мотыга, тяпка	qinc'ir	qinc'irt
+303	402	рукавица	qʷat'ka	qʷat'kʷne
+304	421	пила	rastis	rastisune
+305	420	мужская коса	č'inikʷ	č'inikune, č'inkbe
+306	406	сапог		sapaški
+307	371	рулет на нутряном жире	selisani	selisune, selisunt
+308	391	кольцо	t'uleka	t'ulkme
+309	357	хлеб (а. лепешка)	t'ult'	t'ult'e
+312	385	бурка, войлок	warhi	warhne
+313	381	мед	warʔa	warʔne
+315	384	штаны	waχčag	waχčagune
+316	377	хинкал	χinč'	χinč'e
+317	379	соль	ze	zeme
+318	378	яйцо	žigari	žigre
+106, 131	154	гость (а. мужчина ; б. гостья)	ʡaˤχul	ʡaˤχle
+107, 151	209	барсук	qaˤša	qaˤšme
+145, 213	314	слива	kʷaˁkʷaˁm, k(ʷ)oˁk(ʷ)oˁm	kʷaˁkʷaˁmt, k(ʷ)oˁk(ʷ)oˁmt
+180, 181	218	орел	ʡaˤnuk'	ʡaˤnuk'une
+240, 254, 310	369	сыр	uʡaˤ	ʡaˤʡne, ʡoʡne, uʡne
+280, 285	413	лопата (а. деревянная; б. железная)	a. kura', b. k'at'a	a. kurmi', b. k'at'ube
+44, 48	96	жила	gʷe, iʡani	gʷeme, iʡoˤnt
+68, 311	373	курдюк	urʁaˤdiq'ani	urʁaˤdiq'unt, urʁaˤdiq'ane
+91, 92	95	бок	šali	šulme
